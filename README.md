@@ -1,21 +1,18 @@
-Hi, I'm Dreamy, 13 y.o 300 IQ Developer! 👋
+Hi, I'm Dreamy, 13 y.o Developer! 👋
 💻 Low-Level & OS Developer
 Creating systems from scratch. Currently building MidnightOS.
 
 ---
 
 🛠 Tech Stack
-!Assembly
-!Machine Code
-!Binary code
-!Kumir
-!Kumir-HYPERLAND
-!C
-!Java
-!Python
-!Lua
-!Luau
-!Arch Linux
+Assembly
+Machine Code
+C
+Java
+Python
+Lua
+Luau
+Arch Linux
 
 ---
 
@@ -27,9 +24,9 @@ Binary Machine — Deep dive into instruction sets.
 ---
 
 📜 Skills & Languages
-Systems: Assembly, Binary Code, Machine code
-Scripting: Assembly, Machine code, Binary code, C, Python
-Education & Logic: Kumir-HYPERLAND, Assembly, Machine code, Binary code
+Systems: Assembly, Machine code
+Scripting: Assembly, Machine code, C, Python
+Education & Logic: Assembly, Machine code
 OS Environment: Arch Linux Enthusiast
 
 ---
