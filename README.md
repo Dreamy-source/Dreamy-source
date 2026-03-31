@@ -4,14 +4,14 @@ Creating systems from scratch. Currently building MidnightOS.
 
 ---
 
-🛠 Tech Stack
-Assembly
-Machine Code
-C
-Java
-Python
-Lua
-Luau
+🛠 Tech Stack:
+Assembly,
+Machine Code,
+C,
+Java,
+Python,
+Lua,
+Luau,
 Arch Linux
 
 ---
