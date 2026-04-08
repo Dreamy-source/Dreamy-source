@@ -1,5 +1,5 @@
-Hi, I'm Dreamy, 13 y.o Developer! 👋
-💻 Low-Level & OS Developer
+Hi, I'm dreamy, 13 y.o Developer! 👋
+Low-Level & OS Developer
 Creating systems from scratch. Currently building MidnightOS.
 
 ---
@@ -18,8 +18,7 @@ Arch Linux
 
 🌑 Personal Projects
 Own OS: [MidnightOS](https://github.com/Dreamy-source/MidnightOS) — A custom operating system built for performance.
-Own Programming Languages: - Kumir-HYPERLAND — High-level logic meets system power.
-Binary Machine — Deep dive into instruction sets.
+Own Programming Languages: — Binary Machine — Deep dive into instruction sets.
 
 ---
 
