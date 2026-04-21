@@ -3,6 +3,7 @@
 
 - 👑 I like writing **bootloaders**, **games** on pure 16-bits **assembly**.
 - 🎩 **Currently** writing a book — **ASM for Humans**
+  > *"Every kernel developer and system programmer was already coding in assembly while still an embryo in their mother's womb."*
 
   ### 🧊 Best Brothers:
 
