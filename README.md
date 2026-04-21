@@ -15,7 +15,7 @@
 
 ## 🛠 Tech Stack:
 
-📦📦📦📦📦📦![Machine Code](https://img.shields.io/badge/machine%20code-black?style=for-the-badge)
+![Machine Code](https://img.shields.io/badge/machine%20code-black?style=for-the-badge)
 
 ![Assembly](https://img.shields.io/badge/assembly-black?style=for-the-badge)
 
