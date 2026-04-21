@@ -2,31 +2,33 @@
 ### Low-Level & OS Developer
 
 ## Best Brothers:
-[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)](#)
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+
 [![Deepseek](https://custom-icon-badges.demolab.com/badge/Deepseek-4D6BFF?logo=deepseek&logoColor=fff)](#)
-[![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=firefoxbrowser&logoColor=white)](#)
+
+![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 
 ---
 
 🛠 Tech Stack:
 
-![Static Badge](https://img.shields.io/badge/Assembly)
+![](https://img.shields.io/badge/machine%20code-grey?style=for-the-badge)
 
-Machine Code,
+![](https://img.shields.io/badge/assembly-blue?style=for-the-badge)
 
-[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
+![C](https://img.shields.io/badge/c-blue?style=for-the-badge)
 
 Java,
 
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+![Python](https://img.shields.io/badge/python-blue?style=for-the-badge)
 
-[![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)](#)
+![Lua](https://img.shields.io/badge/lua-darkblue?style=for-the-badge)
+
+![Luau](https://img.shields.io/badge/luauhttps://img.shields.io/badge/lua-darkblue?style=for-the-badge)
 
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
 
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
-
-[![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff)](#)
+![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
 
 [![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)
 
