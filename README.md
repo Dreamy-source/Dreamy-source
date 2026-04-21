@@ -2,15 +2,18 @@
 ### Low-Level & OS Developer
 
 ## Best Brothers:
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 
-[![Deepseek](https://custom-icon-badges.demolab.com/badge/Deepseek-4D6BFF?logo=deepseek&logoColor=fff)](#)
+![Deepseek](https://img.shields.io/badge/Deepseek-1793D1?logo=deepseek&logoColor=fff&style=for-the-badge)
 
-![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
+![Firefox](https://img.shields.io/badge/firefox-orange?style=for-the-badge)
 
 ---
 
-🛠 Tech Stack:
+## OS:
+
+![Arch-Linux](https://img.shields.io/badge/arch_linux-blue?style=for-the-badge)
+
+## 🛠 Tech Stack:
 
 ![Machine Code](https://img.shields.io/badge/machine%20code-black?style=for-the-badge)
 
@@ -29,15 +32,5 @@
 ![YAML](https://img.shields.io/badge/yaml-black?style=for-the-badge)
 
 ![Markdown](https://img.shields.io/badge/markdown-black?style=for-the-badge)
-
-🌑 Personal Projects
-Own OS: [MidnightOS](https://github.com/Dreamy-source/MidnightOS) — A custom operating system built for performance.
-Own Programming Languages: — Binary Machine — Deep dive into instruction sets.
-
-📜 Skills & Languages
-Systems: Assembly, Machine code
-Scripting: Assembly, Machine code, C, Python
-Education & Logic: Assembly, Machine code
-OS Environment: Arch Linux Enthusiast
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1038118220135149599)
