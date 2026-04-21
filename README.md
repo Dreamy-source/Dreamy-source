@@ -12,25 +12,23 @@
 
 🛠 Tech Stack:
 
-![](https://img.shields.io/badge/machine%20code-grey?style=for-the-badge)
+![Machine Code](https://img.shields.io/badge/machine%20code-black?style=for-the-badge)
 
-![](https://img.shields.io/badge/assembly-blue?style=for-the-badge)
+![Assembly](https://img.shields.io/badge/assembly-black?style=for-the-badge)
 
-![C](https://img.shields.io/badge/c-blue?style=for-the-badge)
+![C](https://img.shields.io/badge/c-black?style=for-the-badge)
 
-Java,
+![Python](https://img.shields.io/badge/python-black?style=for-the-badge)
 
-![Python](https://img.shields.io/badge/python-blue?style=for-the-badge)
+![Lua](https://img.shields.io/badge/lua-black?style=for-the-badge)
 
-![Lua](https://img.shields.io/badge/lua-darkblue?style=for-the-badge)
+![Luau](https://img.shields.io/badge/luau-black?style=for-the-badge)
 
-![Luau](https://img.shields.io/badge/luau-darkblue?style=for-the-badge)
+![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge)
 
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
+![YAML](https://img.shields.io/badge/yaml-black?style=for-the-badge)
 
-![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
-
-[![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)
+![Markdown](https://img.shields.io/badge/markdown-black?style=for-the-badge)
 
 🌑 Personal Projects
 Own OS: [MidnightOS](https://github.com/Dreamy-source/MidnightOS) — A custom operating system built for performance.
