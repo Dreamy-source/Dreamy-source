@@ -1,18 +1,34 @@
-Hi, I'm dreamy, 13 y.o Developer! 👋
-Low-Level & OS Developer
-Creating systems from scratch. Currently building MidnightOS.
+### Hi, I'm dreamy, 13 y.o Developer! 👋
+### Low-Level & OS Developer
+
+## Best Brothers:
+[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)](#)
+[![Deepseek](https://custom-icon-badges.demolab.com/badge/Deepseek-4D6BFF?logo=deepseek&logoColor=fff)](#)
+[![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=firefoxbrowser&logoColor=white)](#)
 
 ---
 
 🛠 Tech Stack:
-Assembly,
+
+![Static Badge](https://img.shields.io/badge/Assembly)
+
 Machine Code,
-C,
+
+[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
+
 Java,
-Python,
-Lua,
-Luau,
-Arch Linux
+
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+
+[![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)](#)
+
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
+
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+
+[![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff)](#)
+
+[![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)
 
 🌑 Personal Projects
 Own OS: [MidnightOS](https://github.com/Dreamy-source/MidnightOS) — A custom operating system built for performance.
