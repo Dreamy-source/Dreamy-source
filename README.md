@@ -24,7 +24,7 @@ Java,
 
 ![Lua](https://img.shields.io/badge/lua-darkblue?style=for-the-badge)
 
-![Luau](https://img.shields.io/badge/luau)
+![Luau](https://img.shields.io/badge/luau-darkblue?style=for-the-badge)
 
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
 
