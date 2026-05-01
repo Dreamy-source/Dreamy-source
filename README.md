@@ -25,6 +25,8 @@
   
   ![Python](https://img.shields.io/badge/python-black?style=for-the-badge)
 
+  ![C++](https://img.shields.io/badge/c++-black?style=for-the-badge)
+
   ![Lua](https://img.shields.io/badge/lua-black?style=for-the-badge)
 
   ![Luau](https://img.shields.io/badge/luau-black?style=for-the-badge)
