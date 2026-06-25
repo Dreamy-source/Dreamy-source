@@ -3,4 +3,4 @@
 - Low-Level & OS Developer
 - Embedded Systems Engineer
 - Assembly | Machine Code | C | Verilog
-# bye bye
+# bye bye!! ^^
