@@ -1,4 +1,4 @@
-# sup, ima 13 y.o, idk
+# dreamy
 - 🏳️‍⚧️
 - 64-bit CPU owner (vanilla-q! | own ISA asm)
 - Low-Level & OS Developer
