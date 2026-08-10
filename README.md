@@ -11,8 +11,7 @@
 - ASM (NASM, AT&T, GAS, RISC-V, own ASM)
 - Rust
 - Java
-- Lua
-- Luau
+- Lua / Luau
 - Python
 - Bash
 - Brainfuck
